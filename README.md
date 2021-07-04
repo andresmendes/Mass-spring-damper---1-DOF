@@ -1,4 +1,4 @@
-[![View Mass spring damper - 1 DOF on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/93065-mass-spring-damper-1-dof)
+[![View Mass spring damper - 1 DOF on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95288-mass-spring-damper-1-dof)
 # Mass spring damper - 1 DOF
 Simulation and animation of a mass spring damper system with 1 degree of freedom subjected to base excitation.
 

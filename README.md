@@ -2,9 +2,9 @@
 # Mass spring damper - 1 DOF
 Simulation and animation of a mass spring damper system with 1 degree of freedom subjected to base excitation.
 
-Watch the animation on YouTube: https://youtu.be/J-kF10-zTl8
+Watch the animation on YouTube: https://youtu.be/iy3jfv-jCkY
 
-![Logo](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/0596bfc7-7dfe-40dc-aafc-d30d7214c6d2/cf33b9fd-8ca7-4558-8553-31f8ad02f44d/images/1622211747.png)
+![Logo](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/1448ea85-50b8-4276-acc0-9166573c3fb5/6eaa4d98-d3e1-41df-acd4-62c9c1f0f919/images/1639742862.png)
 
 ## Examples
 ### Mass spring damper - 1 DOF - Frequency sweep
